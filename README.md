@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ALINO**
 
-- 🌱 I’m currently learning **Django, GraphQL, WebSockets, CI/CD**
+- 🌱 I’m currently learning **Django, PostgreSQL, WebSockets, CI/CD**
 
 - 📫 How to reach me **Mfesenko2003@gmail.com**
 
